@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研机制图生成与PPT原生转绘"
+  short_description: "生成科研机制图并按参考布局转绘为可编辑PPT，检查字体、公式及导出效果"
+  default_prompt: "使用 $scientific-mechanism-to-ppt 生成论文机制图，并转绘为可编辑的 PowerPoint 原生图形。"
